@@ -1,0 +1,20 @@
+C:\Users\Prueba\source\repos\Semana4\Semana4\bin\Debug\Semana4.exe.config
+C:\Users\Prueba\source\repos\Semana4\Semana4\bin\Debug\Semana4.exe
+C:\Users\Prueba\source\repos\Semana4\Semana4\bin\Debug\Semana4.pdb
+C:\Users\Prueba\source\repos\Semana4\Semana4\obj\Debug\Semana4.csproj.AssemblyReference.cache
+C:\Users\Prueba\source\repos\Semana4\Semana4\obj\Debug\Semana4.Form1.resources
+C:\Users\Prueba\source\repos\Semana4\Semana4\obj\Debug\Semana4.Properties.Resources.resources
+C:\Users\Prueba\source\repos\Semana4\Semana4\obj\Debug\Semana4.csproj.GenerateResource.cache
+C:\Users\Prueba\source\repos\Semana4\Semana4\obj\Debug\Semana4.csproj.CoreCompileInputs.cache
+C:\Users\Prueba\source\repos\Semana4\Semana4\obj\Debug\Semana4.exe
+C:\Users\Prueba\source\repos\Semana4\Semana4\obj\Debug\Semana4.pdb
+C:\Users\milag\Downloads\Semana4 (1)\Semana4\Semana4\bin\Debug\Semana4.exe.config
+C:\Users\milag\Downloads\Semana4 (1)\Semana4\Semana4\bin\Debug\Semana4.exe
+C:\Users\milag\Downloads\Semana4 (1)\Semana4\Semana4\bin\Debug\Semana4.pdb
+C:\Users\milag\Downloads\Semana4 (1)\Semana4\Semana4\obj\Debug\Semana4.csproj.AssemblyReference.cache
+C:\Users\milag\Downloads\Semana4 (1)\Semana4\Semana4\obj\Debug\Semana4.Form1.resources
+C:\Users\milag\Downloads\Semana4 (1)\Semana4\Semana4\obj\Debug\Semana4.Properties.Resources.resources
+C:\Users\milag\Downloads\Semana4 (1)\Semana4\Semana4\obj\Debug\Semana4.csproj.GenerateResource.cache
+C:\Users\milag\Downloads\Semana4 (1)\Semana4\Semana4\obj\Debug\Semana4.csproj.CoreCompileInputs.cache
+C:\Users\milag\Downloads\Semana4 (1)\Semana4\Semana4\obj\Debug\Semana4.exe
+C:\Users\milag\Downloads\Semana4 (1)\Semana4\Semana4\obj\Debug\Semana4.pdb

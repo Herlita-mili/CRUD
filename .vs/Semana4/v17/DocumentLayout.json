@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|solutionrelative:Semana4\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|solutionrelative:Semana4\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|c:\\users\\milag\\onedrive\\documentos\\mi sexto ciclo 6\u00B0\\semana4\\semana4\\metodos\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|solutionrelative:semana4\\metodos\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|solutionrelative:Semana4\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|solutionrelative:Semana4\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B100F0-0C46-480F-B10C-C0F690071EDB}|Semana4\\Semana4.csproj|solutionrelative:Semana4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Semana4\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Form1.Designer.cs",
+              "RelativeToolTip": "Semana4\\Form1.Designer.cs",
+              "ViewState": "AQIAAAkBAAAAAAAAAAAewDIBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T23:20:44.325Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Form1.cs",
+              "RelativeDocumentMoniker": "Semana4\\Form1.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Form1.cs",
+              "RelativeToolTip": "Semana4\\Form1.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAAAnwAgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:44:29.916Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crud.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Metodos\\Crud.cs",
+              "RelativeDocumentMoniker": "Semana4\\Metodos\\Crud.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Metodos\\Crud.cs",
+              "RelativeToolTip": "Semana4\\Metodos\\Crud.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T05:36:11.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\App.config",
+              "RelativeDocumentMoniker": "Semana4\\App.config",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\App.config",
+              "RelativeToolTip": "Semana4\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-13T21:54:35.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Form1.cs",
+              "RelativeDocumentMoniker": "Semana4\\Form1.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Semana4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:43:28.202Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Program.cs",
+              "RelativeDocumentMoniker": "Semana4\\Program.cs",
+              "ToolTip": "C:\\Users\\milag\\OneDrive\\Documentos\\MI SEXTO CICLO 6\u00B0\\Semana4\\Semana4\\Program.cs",
+              "RelativeToolTip": "Semana4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T19:29:07.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
